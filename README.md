@@ -17,6 +17,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [W. Wesley Weidenhamer II](https://github.com/wesley27) and [Joshua Fleming](https://github.com/jsfleming)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
 - **Syllabus Last Updated**: May 23, 2018
+- **Previous Offering**: [Spring 2018](https://github.com/UMD-CS-STICs/389Rspring18)
 
 ## Topics Covered
 - Security research ethics
