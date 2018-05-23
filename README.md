@@ -1,5 +1,5 @@
 # CMSC389R: Introduction to Ethical Hacking (HackTheClass)
-![HackTheClass](HackTheClass.png)
+![HackTheClass](https://github.com/UMD-CS-STICs/389Rspring18/raw/master/HackTheClass.png)
 
 ## Course Description
 This practical, hands-on [1-credit course](http://sticsumd.com/) provides students with an introduction to ethical hacking. The course begins with a discussion on the ethics behind security research and progresses to topics that surround penetration testing, forensics, cryptology, and binary reverse engineering and exploitation. This course is also meant to introduce students to Capture-the-Flag (CTF) style cybersecurity challenges, encourages participation in UMD's Cybersecurity Club ([UMDCSEC](https://csec.umd.edu)), and prepares for CMSC414.
@@ -40,21 +40,21 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
     - File types and carving
     - Metadata
     - File system artifacts
-    - Password cracking
-    - Network captures
+    - Network packet captures
     - Steganography
 - Binaries
     - Reverse engineering
     - Stack-based buffer overflow
-    - Shellcode
 - Web
     - Javascript deobfuscation
     - SQL injection
-    - XSS & CSRF
-- Crypto
+    - XSS
+- Cryptography
     - Classic ciphers
     - Symmetric and asymmetric key
-- CTF
+    - Hash-length extension attacks
+    - Password cracking
+- Capture the Flag (CTF)
     - Jeopardy vs Attack-Defense
     - Write-ups
 
@@ -79,39 +79,20 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | ----|----|----- |
 | 1 (8/31) | [Introduction + Ethics 1](week/1/Introduction.pdf) | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook]
 | 2 (9/7) |[Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Challenges.](week/2/challenges/README.md) Write-up 1. [Kali VM installation instructions](week/2/kali_instructions.pdf)|
-| 3 (9/14) | jQuery and AJAX | P2 DUE, 50 State Game (P3) |
-| 4 (9/21) | Node.js | |
-| 5 (9/28) | Express.js | P3 DUE, Pokémon API (P4) |
-| 6 (10/5) | Express.js (cont.) | |
-| 7 (10/12) | Express.js (cont.) | P4 DUE |
-| 8 (10/19) | Midterm | Representatives Website (P5) |
-| 9 (10/26) | Final Project | Databases |
-| 10 (11/2) | Hosting + Git | |
-| 11 (11/9) | Mega Boilerplate | |
-| 12 (11/16) | Web Sockets | |
+| 3 (9/14) | [OSINT 2 + Vulnerability scanning](week/3/OSINT2-Vulnerability-Scanning.pdf) | [Challenges.](week/3/challenges/README.md) Write-up 2. |
+| 4 (9/21) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Challenges.](week/4/challenges/README.md) Write-up 3. |
+| 5 (9/28) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Challenges.](week/5/challenges) Write-up 4. |
+| 6 (10/5) | [Forensics I](week/6/Forensics-1.pdf) | [Challenges.](week/6/challenges) Write-up 5. |
+| 7 (10/12) | [Forensics II](week/7/Forensics-2.pdf) | [Challenges.](week/7/challenges) Write-up 6. |
+| 8 (10/19) | Midterm | |
+| 9 (10/26) | [Cryptography I](week/9/Crypto-1.pdf) | [Challenges.](week/9/challenges) Write-up 7.|
+| 10 (11/2) | [Cryptography II](week/10/Crypto-2.pdf) | [Challenges.](week/10/) Write-up 8.|
+| 11 (11/9) | [Web](week/11/Web.pdf) | [Challenges.](week/11/challenges) Write-up 9. |
+| 12 (11/16) | [Binaries I](week/12/Binaries-1.pdf) | [Challenges.](week/12/challenges) Write-up 10. |
 | 13 (11/23) | THANKSGIVING BREAK 
-| 14 (11/23) | Deploying via Now | |
-| 15 (11/30) | FILLER
-| 16 (12/7) | Presentations | Final Project DUE |
-
-## (Fall) Schedule
-
-| Week | Topic | Assignment |
-| ----|----|----- |
-| 1 (1/26) | [Introduction + Ethics 1](week/1/Introduction.pdf) | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
-| 2 (2/2) | [Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Challenges.](week/2/challenges/README.md) Write-up 1. [Kali VM installation instructions](week/2/kali_instructions.pdf)|
-| 3 (2/9) | [OSINT 2 + Vulnerability scanning](week/3/OSINT2-Vulnerability-Scanning.pdf) | [Challenges.](week/3/challenges/README.md) Write-up 2. |
-| 4 (2/16) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Challenges.](week/4/challenges/README.md) Write-up 3. |
-| 5 (2/23) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Challenges.](week/5/challenges) Write-up 4. |
-| 6 (3/2) | [Forensics I](week/6/Forensics-1.pdf) | [Challenges.](week/6/challenges) Write-up 5. |
-| 7 (3/9) | [Forensics II](week/7/Forensics-2.pdf) | [Challenges.](week/7/challenges) Write-up 6. |
-| 8 (3/16) | Midterm | Start of spring break. |
-| 9 (3/30) | [Cryptography I](week/9/Crypto-1.pdf) | [Challenges.](week/9/challenges) Write-up 7.|
-| 10 (4/6) | [Cryptography II](week/10/Crypto-2.pdf) | [Challenges.](week/10/) Write-up 8.|
-| 11 (4/13) | [Web](week/11/Web.pdf) | [Challenges.](week/11/challenges) Write-up 9. |
-| 12 (4/20) | [Binaries I](week/12/Binaries-1.pdf) | [Challenges.](week/12/challenges) Write-up 10. |
-| 13 (4/27) | [Binaries II](week/13/Binaries-2.pdf) | [Challenges.](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/13) Write-up 11. |
-| 14 (5/4) | [Wrap-up](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/14) | Final hack. |
+| 14 (11/23) | [Binaries II](week/13/Binaries-2.pdf) | [Challenges.](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/13) Write-up 11. |
+| 15 (11/30) | (Potential Guest Speaker) | |
+| 16 (12/7) | [Wrap-up](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/14) | Final hack. |
 
 The timeline is not final and can be subject to change.
 
