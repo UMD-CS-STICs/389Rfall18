@@ -90,7 +90,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 10 (11/2) | [Cryptography II](week/10/Crypto-2.pdf) | [Challenges.](week/10/) Write-up 8.|
 | 11 (11/9) | [Binaries I](week/11/Binaries-1.pdf) | [Challenges.](week/11/challenges) Write-up 9. |
 | 12 (11/16) | [Binaries II](week/12/Binaries-2.pdf) | [Challenges.](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/13) Write-up 10.|
-| 13 (11/23) | Thanksgiving Break | | 
+| 13 (11/23) | Thanksgiving Break | |
 | 14 (11/23) | [Web](week/13/Web.pdf) | [Challenges.](week/13/challenges) Write-up 11.|
 | 15 (11/30) | (Potential Guest Speaker) | |
 | 16 (12/7) | [Wrap-up](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/14) | Final hack. |
@@ -112,7 +112,7 @@ Michael Reininger - michael@csec.umiacs.umd.edu
 
 W. Wesley Weidenhamer II - wwesley@umd.edu (changeme)
 
-Joshua Fleming - secretary@csec.umiacs.umd.edu
+Joshua Fleming - josofl12@gmail.com
 
 
 ## Excused Absence and Academic Accommodations
