@@ -10,13 +10,13 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - **Prerequisites**: C- or better in CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
-- **Lecture Time**: Fridays, 2-2:50 PM and 3-3:50PM
+- **Lecture Time**: Fridays, 2-2:50 PM (0101) and 3-3:50 PM (0201)
 - **Location**: CSI 2118
 - **Semester**: Fall 2018
 - **Textbook**: None
 - **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [W. Wesley Weidenhamer II](https://github.com/wesley27) and [Joshua Fleming](https://github.com/jsfleming)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
-- **Syllabus Last Updated**: May 23, 2018
+- **Syllabus Last Updated**: August 12, 2018
 - **Previous Offering**: [Spring 2018](https://github.com/UMD-CS-STICs/389Rspring18)
 
 ## Topics Covered
@@ -60,7 +60,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
     - Write-ups
 
 ## Grading
-Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
+Grades and assignments will be managed on the [ELMS/Canvas website](https://myelms.umd.edu/courses/1251976)
 
 You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
 
@@ -99,6 +99,8 @@ The timeline is not final and can be subject to change.
 
 ## Communicating with course staff
 
+There are no designated office hours for this course. Course staff will remain in the classroom after class on Friday's to answer questions and provide assistance as needed. Meetings can also be scheduled via Piazza.
+
 Outside of class interaction between students and course staff will occur via piazza.
 Email should only be used for emergencies and not class related questions.
 
@@ -110,7 +112,7 @@ TAs:
 
 Michael Reininger - michael@csec.umiacs.umd.edu
 
-W. Wesley Weidenhamer II - wwesley@umd.edu (changeme)
+W. Wesley Weidenhamer II - wesleyw@terpmail.umd.edu
 
 Joshua Fleming - josofl12@gmail.com
 
