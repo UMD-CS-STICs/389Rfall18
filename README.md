@@ -9,14 +9,14 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - **Course**: [CMSC389R](https://testudo.umd.edu)
 - **Prerequisites**: C- or better in CMSC216 and CMSC250
 - **Credits**: 1
-- **Seats**: 30
+- **Seats**: 30, 2 sections
 - **Lecture Time**: Fridays, 2-2:50 PM (0101) and 3-3:50 PM (0201)
 - **Location**: CSI 2118
 - **Semester**: Fall 2018
 - **Textbook**: None
-- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [W. Wesley Weidenhamer II](https://github.com/wesley27) and [Joshua Fleming](https://github.com/jsfleming)
+- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [Wesley Weidenhamer](https://github.com/wesley27) and [Joshua Fleming](https://github.com/jsfleming)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
-- **Syllabus Last Updated**: August 12, 2018
+- **Syllabus Last Updated**: August 30, 2018
 - **Previous Offering**: [Spring 2018](https://github.com/UMD-CS-STICs/389Rspring18)
 
 ## Topics Covered
@@ -68,11 +68,14 @@ Your final course grade will be determined according to the following percentage
 
 | Percentage | Title | Description |
 | ------------- | -----|-------- |
-| 55% | Write-ups  | Weekly individual write-ups (250-500 words) that summarize the lecture and assigned CTF challenges. |
+| 45% | Write-ups  | Weekly individual write-ups (250-500 words) that summarize and explain your solutions to the assigned CTF challenges or concepts covered in lecture. |
 | 20% | Midterm | Examination on topics covered until Forensics II. |
 | 25% | Final Hack | Demonstrate mastery of all topics learned and apply knowledge to change your grade on the class's private grade server. The grade earned will be determined by levels unlocked in the grade server and will be applied to your official final grade. |
+| 10% | Competitions | Certain assignments throughout the semester will be competitive in nature. The final 10% of your grade will be determined by your performance on challenges in a competitive setting.
 
-Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
+Any request for reconsideration of any grading on coursework must be submitted within 36 hours  of when it is returned. No requests will be considered afterwards.
+
+Assignments may be submitted up to 3 days late for a 5%/day penalty.
 
 ## Schedule
 
@@ -112,9 +115,9 @@ TAs:
 
 Michael Reininger - michael@csec.umiacs.umd.edu
 
-W. Wesley Weidenhamer II - wesleyw@terpmail.umd.edu
+W. Wesley Weidenhamer II - wesley@csec.umiacs.umd.edu
 
-Joshua Fleming - josofl12@gmail.com
+Joshua Fleming - president@csec.umiacs.umd.edu
 
 
 ## Excused Absence and Academic Accommodations
