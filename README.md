@@ -60,7 +60,9 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
     - Write-ups
 
 ## Grading
-Grades and assignments will be managed on the [ELMS/Canvas website](https://myelms.umd.edu/courses/1251976)
+Assignments should be submitted through your personal fork of our class repository. Instructions on how to set this up and do it can be found [here](HW_Submit_Instructions.md).
+
+Grades will be released through ELMS.
 
 You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
 
