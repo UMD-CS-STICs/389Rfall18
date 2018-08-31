@@ -115,7 +115,7 @@ TAs:
 
 Michael Reininger - michael@csec.umiacs.umd.edu
 
-W. Wesley Weidenhamer II - wesley@csec.umiacs.umd.edu
+Wesley Weidenhamer - wesley@csec.umiacs.umd.edu
 
 Joshua Fleming - president@csec.umiacs.umd.edu
 
