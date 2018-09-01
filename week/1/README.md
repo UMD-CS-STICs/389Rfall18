@@ -3,7 +3,7 @@ Ethics
 
 ## Assignment details
 
-This assignment has two parts. It is due by Thursday, September 2, at 11:59 PM.
+This assignment has two parts. It is due by Thursday, September 6, at 11:59 PM.
 To submit your homework, please follow the guidelines posted on the syllabus under the grading section.
 
 **There will be a late penalty of 5% off per day late! Submissions received more than 3 days late will receive a 0!**
