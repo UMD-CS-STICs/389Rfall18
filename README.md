@@ -83,7 +83,7 @@ Assignments may be submitted up to 3 days late for a 5%/day penalty.
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (8/31) | [Introduction + Ethics 1](week/1/Introduction.pdf) | [Writeup 1](week/.1), Download [VMWare](https://terpware.umd.edu), [Kali](https://www.kali.org/). [OSINT Handbook](https://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf)
+| 1 (8/31) | [Introduction + Ethics 1](week/1/Introduction.pdf) | [Writeup 1](week/1), Download [VMWare](https://terpware.umd.edu), [Kali](https://www.kali.org/). [OSINT Handbook](https://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf)
 | 2 (9/7) |[Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Writeup 2](week/2), [Kali VM installation instructions](week/2/kali_instructions.pdf)|
 | 3 (9/14) | [OSINT 2 + Vulnerability scanning](week/3/OSINT2-Vulnerability-Scanning.pdf) | [Writeup 3](week/3) |
 | 4 (9/21) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Writeup 4](week/4) |
