@@ -87,17 +87,17 @@ Assignments may be submitted up to 3 days late for a 5%/day penalty.
 | 2 (9/7) |[Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Writeup 2](week/2), [Kali VM installation instructions](week/2/kali_instructions.pdf)|
 | 3 (9/14) | [OSINT 2 + Vulnerability scanning](week/3/OSINT2-Vulnerability-Scanning.pdf) | [Writeup 3](week/3) |
 | 4 (9/21) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Writeup 4](week/4) |
-| 5 (9/28) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Challenges.](week/5/challenges) Write-up 4. |
-| 6 (10/5) | [Forensics I](week/6/Forensics-1.pdf) | [Challenges.](week/6/challenges) Write-up 5. |
-| 7 (10/12) | [Forensics II](week/7/Forensics-2.pdf) | [Challenges.](week/7/challenges) Write-up 6. |
+| 5 (9/28) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Writeup 5](week/5) |
+| 6 (10/5) | [Forensics I](week/6/Forensics-1.pdf) | [Writeup 6](week/6) |
+| 7 (10/12) | [Forensics II](week/7/Forensics-2.pdf) | [Writeup 7](week/7) |
 | 8 (10/19) | Midterm | |
-| 9 (10/26) | [Cryptography I](week/9/Crypto-1.pdf) | [Challenges.](week/9/challenges) Write-up 7.|
-| 10 (11/2) | [Cryptography II](week/10/Crypto-2.pdf) | [Challenges.](week/10/) Write-up 8.|
-| 11 (11/9) | [Binaries I](week/11/Binaries-1.pdf) | [Challenges.](week/11/challenges) Write-up 9. |
-| 12 (11/16) | [Binaries II](week/12/Binaries-2.pdf) | [Challenges.](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/13) Write-up 10.|
+| 9 (10/26) | [Cryptography I](week/9/Crypto-1.pdf) | [Writeup 8](week/9) |
+| 10 (11/2) | [Cryptography II](week/10/Crypto-2.pdf) | [Writeup 9](week/10) |
+| 11 (11/9) | [Binaries I](week/11/Binaries-1.pdf) | [Writeup 10](week/11) |
+| 12 (11/16) | [Binaries II](week/12/Binaries-2.pdf) | [Writeup 11](week/12) |
 | 13 (11/23) | Thanksgiving Break | |
-| 14 (11/23) | [Web](week/13/Web.pdf) | [Challenges.](week/13/challenges) Write-up 11.|
-| 15 (11/30) | (Potential Guest Speaker) | |
+| 14 (11/23) | [Web](week/13/Web.pdf) | [Writeup 12](week/14) |
+| 15 (11/30) | (Potential Guest Speaker or Demo Day) | |
 | 16 (12/7) | [Wrap-up](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/14) | Final hack. |
 
 The timeline is not final and can be subject to change.
