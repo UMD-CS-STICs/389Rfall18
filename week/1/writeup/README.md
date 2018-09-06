@@ -16,4 +16,4 @@ This was done via the [ELMS assignment](https://myelms.umd.edu/courses/1251976/a
 
 ### Part 2 (75 pts)
 
-*Replace this text with your repsonse to our prompt and your ethical argument!*
+To start off with, I would only tell my boss about the issue. This would hopefully get the company to start working on the issue as soon as possible. I would not start off by telling the public, or a consumer watchdog since that would make attackers aware of the issue. This means they would have more time to exploit the problem. Since the security problem is “complex,” it is possible that no attacker will figure out how to exploit the issue in the 6 months that the company is taking to fix the problem.
