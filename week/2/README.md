@@ -11,11 +11,11 @@ To submit your homework, please follow the guidelines posted under the grading s
 
 ### Part 1
 
-In class you were given an online usertag: kruegster1990
+In class you were given an online usertag: `kruegster1990`
+NOTE: "briefly describe" = 2-3 sentences (and/or include screenshot(s))
+Use OSINT techniques to learn as much as you can about `kruegster1990` and answer the following questions:
 
-Use OSINT techniques to learn as much as you can about kruegster1990 and answer the following questions:
-
-1. What is kruegster1990's real name?
+1. What is `kruegster1990`'s real name?
 
 2. List all personal information (including social media accounts) you can find about him. For each, briefly detail how you discovered them.
 
