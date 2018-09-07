@@ -12,6 +12,7 @@ To submit your homework, please follow the guidelines posted under the grading s
 ### Part 1
 
 In class you were given an online usertag: `kruegster1990`
+
 NOTE: "briefly describe" = 2-3 sentences (and/or include screenshot(s))
 
 Use OSINT techniques to learn as much as you can about `kruegster1990` and answer the following questions:
