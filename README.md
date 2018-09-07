@@ -11,7 +11,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - **Credits**: 1
 - **Seats**: 30, 2 sections
 - **Lecture Time**: Fridays, 2-2:50 PM (0101) and 3-3:50 PM (0201)
-- **Location**: CSI 2118
+- **Location**: CSI 2107
 - **Semester**: Fall 2018
 - **Textbook**: None
 - **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [Wesley Weidenhamer](https://github.com/wesley27) and [Joshua Fleming](https://github.com/jsfleming)
