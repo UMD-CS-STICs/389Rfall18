@@ -17,7 +17,7 @@ However, there are rumors that Freds's new service is vulnerable to a Command In
 
 `nc cornerstoneairlines.co 45`
 
-For full credit, write up (step-by-step) how you got the flag and what Mark should do to protect from this vulnerability.
+For full credit, write up (step-by-step) how you got the flag and what Fred should do to protect from this vulnerability.
 
 You will earn full credit for answering these questions:
 
