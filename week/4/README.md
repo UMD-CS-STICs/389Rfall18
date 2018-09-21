@@ -1,11 +1,10 @@
-Pentesting 1
+Pentesting I
 ======
 
 ## Assignment details
 
 This assignment has two parts. It is due by 9/27 at 11:59 PM.
-To submit your homework, please post your responses as either a public note **or** as a link
-to your publicly available writeup on Piazza.
+To submit your homework, please follow the guidelines on the front page to edit the README in the /writeup folder and push your completed work to GitHub.
 
 
 **There will be a late penalty of 5% off per day late!**
