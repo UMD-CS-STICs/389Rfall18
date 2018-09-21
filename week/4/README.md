@@ -21,10 +21,10 @@ For full credit, write up (step-by-step) how you got the flag and what Mark shou
 
 You will earn full credit for answering these questions:
 
-The right flag
-Showing what input you used to obtain the flag.
-Describing your thought process.
-Any suggested precautions Fred could implement to prevent this vulnerability (hint: can you find the script that Fred uses to check the uptime?)
+* The right flag
+* Showing what input you used to obtain the flag.
+* Describing your thought process.
+* Any suggested precautions Fred could implement to prevent this vulnerability (hint: can you find the script that Fred uses to check the uptime?)
 
 ### Part 2
 
@@ -32,10 +32,10 @@ Using the provided stub code, implement an interactive shell that leverages the 
 
 You want to be able to conduct the following actions (by calling their respective commands) in this shell:
 
-1) bash                                Drop into bash and gracefully exit
-2) pull <remote-path> <local-path>     Download files
-3) help                                Shows this help menu
-4) quit                                Quit the shell
+1) `bash`                                Drop into bash and gracefully exit
+2) `pull <remote-path> <local-path>`     Download files
+3) `help`                                Shows this help menu
+4) `quit`                                Quit the shell
 
 If any malformed input occurs, be sure to show this usage function.
 
