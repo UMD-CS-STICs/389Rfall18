@@ -32,7 +32,7 @@ Using the provided stub code, implement an interactive shell that leverages the 
 
 You want to be able to conduct the following actions (by calling their respective commands) in this shell:
 
-1) `bash`                                Drop into bash and gracefully exit
+1) `shell`                               Drop into an interactive shell and allow users to gracefully `exit`
 2) `pull <remote-path> <local-path>`     Download files
 3) `help`                                Shows this help menu
 4) `quit`                                Quit the shell
