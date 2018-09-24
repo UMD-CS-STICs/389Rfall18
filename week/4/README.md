@@ -43,6 +43,9 @@ Note: If you choose to write your own program in another language, please includ
 
 Note: If you are stuck on this part of the assignment, please let us know. The facilitator staff is open to releasing hints, though we reserve the right to deny releasing specific hints if we deem it appropriate.
 
+Note: Here's a [screenshot](shellimg.png) of what we roughly expect. I'll post a simple "public test" for which you will be graded on. Kindly bear with us here, we're trying something new :)
+
+
 ### Format
 
 Both parts should be written in the same blog post, clearly separated. Full, grammatical sentences
@@ -62,4 +65,3 @@ Observe that part 2 is the same as the second part of part 1: doing it first mig
 thoughts.
 
 Good luck!
-
