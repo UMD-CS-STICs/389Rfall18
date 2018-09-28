@@ -85,18 +85,18 @@ Assignments may be submitted up to 3 days late for a 5%/day penalty.
 | ----|----|----- |
 | 1 (8/31) | [Introduction + Ethics 1](week/1/Introduction.pdf) | [Writeup 1](week/1), Download [VMWare](https://terpware.umd.edu), [Kali](https://www.kali.org/). [OSINT Handbook](https://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf)
 | 2 (9/7) |[Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Writeup 2](week/2), [Kali VM installation instructions](https://github.com/UMD-CS-STICs/389Rspring18/blob/master/week/2/kali_instructions.pdf)|
-| 3 (9/14) | [OSINT 2 + Vulnerability scanning](https://github.com/UMD-CS-STICs/389Rfall18/blob/master/week/3/VulnerabilityScanning_OpSec_SE.pdf) | [Writeup 3](week/3) |
+| 3 (9/14) | [OSINT II + Vulnerability scanning](https://github.com/UMD-CS-STICs/389Rfall18/blob/master/week/3/VulnerabilityScanning_OpSec_SE.pdf) | [Writeup 3](week/3) |
 | 4 (9/21) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Writeup 4](week/4) |
-| 5 (9/28) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Writeup 5](week/5) |
-| 6 (10/5) | [Forensics I](week/6/Forensics-1.pdf) | [Writeup 6](week/6) |
-| 7 (10/12) | [Forensics II](week/7/Forensics-2.pdf) | [Writeup 7](week/7) |
-| 8 (10/19) | Midterm | |
-| 9 (10/26) | [Cryptography I](week/9/Crypto-1.pdf) | [Writeup 8](week/9) |
-| 10 (11/2) | [Cryptography II](week/10/Crypto-2.pdf) | [Writeup 9](week/10) |
-| 11 (11/9) | [Binaries I](week/11/Binaries-1.pdf) | [Writeup 10](week/11) |
-| 12 (11/16) | [Binaries II](week/12/Binaries-2.pdf) | [Writeup 11](week/12) |
+| 5 (9/28) | [Binaries I](week/5/Binaries-1.pdf) | [Writeup 5](week/5) |
+| 6 (10/5) | [Binaries II](week/6/Binaries-2.pdf) | [Writeup 6](week/6) |
+| 7 (10/12) | [Forensics I](week/6/Forensics-1.pdf) | [Writeup 6](week/6) |
+| 9 (10/19) | Midterm | |
+| 10 (10/26) | [Forensics II](week/9/Crypto-1.pdf) | [Writeup 8](week/9) |
+| 10 (11/2) | [Cryptography I](week/10/Crypto-2.pdf) | [Writeup 9](week/10) |
+| 11 (11/9) | [Cryptography II](week/11/Binaries-1.pdf) | [Writeup 10](week/11) |
+| 12 (11/16) | [Web I](week/12/Binaries-2.pdf) | [Writeup 11](week/12) |
 | 13 (11/23) | Thanksgiving Break | |
-| 14 (11/23) | [Web](week/13/Web.pdf) | [Writeup 12](week/14) |
+| 14 (11/23) | [Web II](week/13/Web.pdf) | [Writeup 12](week/14) |
 | 15 (11/30) | (Potential Guest Speaker or Demo Day) | |
 | 16 (12/7) | [Wrap-up](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/14) | Final hack. |
 
