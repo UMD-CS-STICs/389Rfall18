@@ -87,7 +87,7 @@ Assignments may be submitted up to 3 days late for a 5%/day penalty.
 | 2 (9/7) |[Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Writeup 2](week/2), [Kali VM installation instructions](https://github.com/UMD-CS-STICs/389Rspring18/blob/master/week/2/kali_instructions.pdf)|
 | 3 (9/14) | [OSINT II + Vulnerability scanning](https://github.com/UMD-CS-STICs/389Rfall18/blob/master/week/3/VulnerabilityScanning_OpSec_SE.pdf) | [Writeup 3](week/3) |
 | 4 (9/21) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Writeup 4](week/4) |
-| 5 (9/28) | [Binaries I](week/5/Binaries-1.pdf) | [Writeup 5](week/5) |
+| 5 (9/28) | [Binaries I](week/5/Binaries%20I.pdf) | [Writeup 5](week/5) |
 | 6 (10/5) | [Binaries II](week/6/Binaries-2.pdf) | [Writeup 6](week/6) |
 | 7 (10/12) | [Forensics I](week/6/Forensics-1.pdf) | [Writeup 6](week/6) |
 | 9 (10/19) | Midterm | |
