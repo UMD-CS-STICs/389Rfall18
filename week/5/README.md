@@ -106,7 +106,7 @@ strings.
 
 Some instructions that may be useful for this are `STOS(B|W|D|Q)`,
 `MOV(B|W|D|Q)`, and the `REP` and `LOOP` modifiers. You aren't required to used
-these instructions, but they may help you when writing these functions.
+any or all these instructions, but they may help you when writing these functions.
 
 You can look up documentation for these
 [here](https://c9x.me/x86/) and [here](https://www.felixcloutier.com/x86/).
