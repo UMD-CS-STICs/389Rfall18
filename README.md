@@ -89,7 +89,7 @@ Assignments may be submitted up to 3 days late for a 5%/day penalty.
 | 4 (9/21) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Writeup 4](week/4) |
 | 5 (9/28) | [Binaries I](week/5/Binaries%20I.pdf) | [Writeup 5](week/5) |
 | 6 (10/5) | [Binaries II](week/6/Binaries-2.pdf) | [Writeup 6](week/6) |
-| 7 (10/12) | [Forensics I](week/7/ForensicsI.pdf) | [Writeup 6](week/6) |
+| 7 (10/12) | [Forensics I](week/7/ForensicsI.pdf) | [Writeup 7](week/7) |
 | 9 (10/19) | Midterm | |
 | 10 (10/26) | [Forensics II](week/9/Crypto-1.pdf) | [Writeup 8](week/9) |
 | 10 (11/2) | [Cryptography I](week/10/Crypto-2.pdf) | [Writeup 9](week/10) |
