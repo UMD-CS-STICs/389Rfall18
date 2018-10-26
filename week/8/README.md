@@ -32,7 +32,7 @@ The hackers don't know that our network engineer saved all network traffic from 
 
 After looking at the file that you discovered in #6 above, we were unable to identify its file type or any program that can open it. Fortunately, we found a specification sheet for this file type! Can you write a parser for us and tell us what their file contains?
 
-We've uploaded the file's spec sheet [here](fpff-spec.md). Once you write the parcer, report back with what you've found!
+We've uploaded the file's spec sheet [here](fpff-spec.md). Once you write the parser, report back with what you've found!
 
 Perform the following tasks:
 
@@ -44,9 +44,9 @@ you'd like to develop in Python.
 2. Parse `update.fpff`, and report the following information:
     1. When was `update.fpff` generated?
     2. Who authored `update.fpff`?
-    3. How many sections does `foo.fpff` *say* it has? How many sections are there *really*?
+    3. How many sections does `update.fpff` *say* it has? How many sections are there *really*?
     4. List each section, giving us the data in it *and* its type.
-    5. Report *at least* one flag hidden in `foo.fpff`. Any other flag found will count as bonus points towards the *competition* portion of the syllabus. 
+    5. Report *at least* one flag hidden in `update.fpff`. Any other flag found will count as bonus points towards the *competition* portion of the syllabus. 
 
 #### Important notes
 
