@@ -32,12 +32,12 @@ The hackers don't know that our network engineer saved all network traffic from 
 
 After looking at the file that you discovered in #6 above, we were unable to identify its file type or any program that can open it. Fortunately, we found a specification sheet for this file type! Can you write a parser for us and tell us what their file contains?
 
-We've uploaded the file's spec sheet [here](https://github.com/UMD-CSEC/fpff/blob/master/spec/fpff_spec.pdf). Once you write the parcer, report back with what you've found!
+We've uploaded the file's spec sheet [here](fpff-spec.md). Once you write the parcer, report back with what you've found!
 
 Perform the following tasks:
 
 1. Develop the parser, using both the
-[specification](https://github.com/UMD-CSEC/fpff/blob/master/spec/fpff_spec.pdf) and
+[specification](fpff-spec.md) and
 `update.fpff` for reference. [stub.py](stub.py) contains the beginnings of a Python parser, if
 you'd like to develop in Python.
 
