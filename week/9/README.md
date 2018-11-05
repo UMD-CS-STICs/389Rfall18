@@ -22,7 +22,7 @@ You found an interesting trivia service running on a distant computer. From my
 experience of highly-contrieved trivia services such as this one, I have a hunch
 if you can answer each of the questions, you'll get a flag in return. Stub code
 is provided in [part2.py](part2.py).
-`nc <domain> <port>`
+`nc 142.93.117.193 7331`
 
 ### Scoring
 
