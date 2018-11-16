@@ -94,7 +94,7 @@ Assignments may be submitted up to 3 days late for a 5%/day penalty.
 | 10 (10/26) | [Forensics II](week/8/Forensics-II.pdf) | [Writeup 8](week/8) |
 | 10 (11/2) | [Cryptography I](week/9/Crypto-1.pdf) | [Writeup 9](week/9) |
 | 11 (11/9) | [Cryptography II](week/10/Crypto-2.pdf) | [Writeup 10](week/10) |
-| 12 (11/16) | [Web I](week/12/Binaries-2.pdf) | [Writeup 11](week/12) |
+| 12 (11/16) | [Web I](week/11/web.pdf) | [Writeup 11](week/11) |
 | 13 (11/23) | Thanksgiving Break | |
 | 14 (11/23) | [Web II](week/13/Web.pdf) | [Writeup 12](week/14) |
 | 15 (11/30) | (Potential Guest Speaker or Demo Day) | |
