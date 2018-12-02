@@ -1,4 +1,4 @@
-# Crypto II
+# Web II
 
 ## Assignment details
 
